@@ -30,3 +30,10 @@ What the App Uses:
   - PMAlertController
   - AlamoFire
   - AlamoFire Image
+- FireBase Diagnostics
+- Google DataTransport
+- FireBase Core 
+- GTM Session Fetcher
+
+Project Demo:
+https://www.youtube.com/watch?v=vq4YDq05f5w&feature=youtu.be
